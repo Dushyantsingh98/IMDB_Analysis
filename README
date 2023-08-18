@@ -1,0 +1,3 @@
+Sentiment analysis is a crucial application of natural language processing (NLP) that involves determining the sentiment or emotion expressed in textual data. 
+In this project, we perform sentiment analysis on IMDB movie reviews using various machine learning models. 
+The chosen dataset consists of movie reviews labeled as positive or negative, and we aim to build and evaluate models to predict sentiment based on text.
